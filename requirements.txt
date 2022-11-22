@@ -1,0 +1,2 @@
+pyopenssl==22.0.0
+git+https://github.com/googleapis/google-auth-library-python@use_crypto
