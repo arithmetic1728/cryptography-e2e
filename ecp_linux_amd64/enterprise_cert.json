@@ -1,0 +1,13 @@
+{
+    "cert_configs": {
+        "pkcs11": {
+          "label": "gecc",
+          "slot": "0",
+          "module": "/usr/lib/x86_64-linux-gnu/pkcs11/libcredentialkit_pkcs11.so.0"
+        }
+    },
+    "libs": {
+        "ecp": "/usr/local/google/home/sijunliu/wks/corp/cryptography-e2e/ecp_linux_amd64/ecp",
+        "ecp_client": "/usr/local/google/home/sijunliu/wks/corp/cryptography-e2e/ecp_linux_amd64/libecp.so"
+    }
+}

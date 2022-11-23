@@ -1,0 +1,11 @@
+{
+    "cert_configs": {
+        "macos_keychain": {
+            "issuer": "Google Endpoint Verification"
+        }
+    },
+    "libs": {
+        "ecp": "<FILL IN>",
+        "ecp_client": "<FILL IN>"
+    }
+}
